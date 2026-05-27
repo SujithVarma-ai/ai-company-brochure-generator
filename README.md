@@ -18,13 +18,6 @@ An AI-powered Company Brochure Generator built using:
 
 ## Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/company-brochure-generator.git
-cd company-brochure-generator
-```
-
 Install dependencies:
 
 ```bash
@@ -40,8 +33,12 @@ GOOGLE_API_KEY=your_api_key_here
 Run the application:
 
 ```bash
-python app.py
+python gradiocompanybrochure.py
 ```
+
+# 📸 Application Screenshot
+
+![App Screenshot](https://github.com/SujithVarma-ai/SMS-spam-classifier/blob/main/Screenshot%202026-05-15%20132801.png)
 
 ## Example Companies
 
