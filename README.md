@@ -33,6 +33,8 @@ python app.py
 # 📸 Application Screenshot
 
 ![App Screenshot](https://github.com/SujithVarma-ai/ai-company-brochure-generator/blob/main/Screenshot%202026-05-27%20073117.png)
+![App Screenshot](https://github.com/SujithVarma-ai/ai-company-brochure-generator/blob/main/Screenshot%202026-05-27%20133148.png)
+
 
 ## Example Companies
 
