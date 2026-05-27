@@ -33,7 +33,7 @@ GOOGLE_API_KEY=your_api_key_here
 Run the application:
 
 ```bash
-python gradiocompanybrochure.py
+python app.py
 ```
 
 # 📸 Application Screenshot
