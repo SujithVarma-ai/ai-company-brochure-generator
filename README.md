@@ -1,12 +1,6 @@
 # AI Company Brochure Generator
 
-An AI-powered Company Brochure Generator built using:
-
-- Gemini API
-- OpenAI Compatible SDK
-- Gradio
-- Python
-- Web Scraping
+An interactive AI-powered Company Brochure Generator built with Gradio and Gemini API.
 
 ## Features
 
@@ -38,7 +32,7 @@ python app.py
 
 # 📸 Application Screenshot
 
-![App Screenshot](https://github.com/SujithVarma-ai/SMS-spam-classifier/blob/main/Screenshot%202026-05-15%20132801.png)
+![App Screenshot](https://github.com/SujithVarma-ai/ai-company-brochure-generator/blob/main/Screenshot%202026-05-27%20073117.png)
 
 ## Example Companies
 
