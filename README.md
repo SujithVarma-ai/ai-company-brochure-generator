@@ -35,6 +35,17 @@ python app.py
 ![App Screenshot](https://github.com/SujithVarma-ai/ai-company-brochure-generator/blob/main/Screenshot%202026-05-27%20073117.png)
 ![App Screenshot](https://github.com/SujithVarma-ai/ai-company-brochure-generator/blob/main/Screenshot%202026-05-27%20133148.png)
 
+## Overview
+
+Enter Company URL
+        ↓
+Scrape Website Content
+        ↓
+Gemini 2.5 Flash Lite
+        ↓
+Generate Markdown Brochure
+        ↓
+Display in Gradio UI
 
 ## Example Companies
 
