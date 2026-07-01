@@ -5,7 +5,7 @@ An interactive AI-powered Company Brochure Generator built with Gradio and Gemin
 ## Features
 
 - Generate AI company brochures from landing pages
-- Gemini 2.5 Flash Lite integration
+- Generate professional company brochures using Gemini 2.5 Flash Lite.
 - Interactive Gradio UI
 - Website content scraping
 - Markdown brochure generation
